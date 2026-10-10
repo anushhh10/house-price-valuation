@@ -1,0 +1,47 @@
+{
+    "best_model": "CatBoost",
+    "metrics": {
+        "RandomForest": {
+            "RMSE": 870007.8,
+            "MAE": 639897.02,
+            "R2": 0.9408,
+            "RMSE_display": "\u20b9 8.70 L",
+            "MAE_display": "\u20b9 6.40 L"
+        },
+        "XGBoost": {
+            "RMSE": 616067.04,
+            "MAE": 440775.13,
+            "R2": 0.9703,
+            "RMSE_display": "\u20b9 6.16 L",
+            "MAE_display": "\u20b9 4.41 L"
+        },
+        "CatBoost": {
+            "RMSE": 494693.49,
+            "MAE": 352811.42,
+            "R2": 0.9809,
+            "RMSE_display": "\u20b9 4.95 L",
+            "MAE_display": "\u20b9 3.53 L"
+        }
+    },
+    "features": [
+        "sqft",
+        "bhk",
+        "bathrooms",
+        "property_age",
+        "floor_number",
+        "total_floors",
+        "parking_spaces",
+        "school_score",
+        "hospital_distance_km",
+        "transit_score",
+        "crime_rate",
+        "police_proximity_km",
+        "aqi",
+        "green_cover_pct",
+        "noise_level_db",
+        "growth_index",
+        "commercial_hub_distance_km"
+    ],
+    "currency": "INR",
+    "currency_symbol": "\u20b9"
+}

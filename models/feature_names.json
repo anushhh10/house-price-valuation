@@ -1,0 +1,19 @@
+[
+    "sqft",
+    "bhk",
+    "bathrooms",
+    "property_age",
+    "floor_number",
+    "total_floors",
+    "parking_spaces",
+    "school_score",
+    "hospital_distance_km",
+    "transit_score",
+    "crime_rate",
+    "police_proximity_km",
+    "aqi",
+    "green_cover_pct",
+    "noise_level_db",
+    "growth_index",
+    "commercial_hub_distance_km"
+]
